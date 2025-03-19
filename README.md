@@ -1,4 +1,4 @@
-# Amazon-Product-Sales
+# Amazon Product Sales
 This is an Exploratory Data Analysis done on the Amazon Product Sales dataset from kaggle.
 
 It was done using Python on Jupyter Notebook environment.
